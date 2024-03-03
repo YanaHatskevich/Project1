@@ -1,0 +1,26 @@
+{  Do +  ( [  re  ] ) - { mi  } *   fa /  ( -sol  ) +  (  [    +lya  ]  *si  )   } *  5
+
+Brackets: 14
+Operators: 9
+Operands: 8
+
+   ( : 3
+   ) : 3
+   * : 3
+   + : 3
+   - : 2
+   / : 1
+   5 : 1
+  Do : 1
+   [ : 2
+   ] : 2
+  fa : 1
+ lya : 1
+  mi : 1
+  re : 1
+  si : 1
+ sol : 1
+   { : 2
+   } : 2
+
+{Do+([re])-{mi}*fa/(-sol)+([+lya]*si)}*5
